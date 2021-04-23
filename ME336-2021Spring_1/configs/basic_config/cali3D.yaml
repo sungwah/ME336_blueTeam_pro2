@@ -1,0 +1,14 @@
+initial_position: [0.47417448, -0.01859413,  0.46304328, -2.25793827, -0.63378739, -1.14911297]
+x_stride: 0.05
+y_stride: 0.05
+z_stride: 0.05
+E_T_F:
+  - [1,0,0,0.042426] #x offset
+  - [0,1,0,-0.042426]
+  - [0,0,1,-0.03] #z offset
+  - [0,0,0,1]
+OFFSET:
+  x: 0.00
+  y: -0.03
+  z: 0.06
+CALIBRATION_DIR: './configs/calib_3d.npz'
