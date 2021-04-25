@@ -60,6 +60,7 @@ The project goal is to realize 6D grasping with manipulator.It is necessary to c
 
 ## 5. Video or gif
 - Because the end-effector cannot be connected to the manipulator arm, the grasping action is not completed.However, as you can see from the video, the robotic arm can move exactly to the grasp position and then back out.
+- The newly assembled pneumatic gripper can not be used because of lack of air valve, so there is no new gripper.
 
 ![6](./image/6.gif)
 
